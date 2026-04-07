@@ -1,27 +1,9 @@
+# 🚀 test
 
-# 🚀 Arc_Hup_Project
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-In_Project-blue?style=for-the-badge)
 
+## 📂 statistics
+- Number of files: 5
+- Discovered languages: HTML/CSS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/Arc_Hup_Project?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/username/Arc_Hup_Project?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-    
-
-## 📝 Description
-This project was uploaded using the professional tool **RepoGlory**.
-This project is under development and contains source code files.
-
-## 📂 Project Structure
-```text
-code/
-    img.jpg
-    index.html
-```
-
-## 🛠️ Technologies Used
-* **Python** (Core Logic)
-* **GitHub API** (Integration)
-
----
-Developed with ❤️ by [NOVA]
-    
+*Uploaded by RepoGlory*
